@@ -1,0 +1,6 @@
+PatientID,PastDiseases,Medications,Allergies
+1,Hypertension,Metformin,None
+2,Diabetes,Aspirin,Penicillin
+3,None,None,None
+4,Allergy,Inhaler,Dust
+5,Heart Disease,Amlodipine,Peanuts

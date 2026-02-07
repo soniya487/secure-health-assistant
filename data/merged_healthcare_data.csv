@@ -1,0 +1,8 @@
+PatientID,Name,Age,Gender,Language,Condition,PastDiseases,Medications,Allergies,HeartRate,OxygenSaturation,BloodPressure,Timestamp,DoctorName,Recommendation
+1,John Doe,45,Male,English,Diabetes,Hypertension,Metformin,None,85,97,130/85,2025-10-12 08:00:00,Dr. Adams,"Reduce sugar intake, regular exercise."
+1,John Doe,45,Male,English,Diabetes,Hypertension,Metformin,None,90,95,140/90,2025-10-12 09:00:00,Dr. Adams,"Reduce sugar intake, regular exercise."
+2,Alice Smith,34,Female,Spanish,Heart Disease,Diabetes,Aspirin,Penicillin,110,89,150/95,2025-10-12 08:30:00,Dr. Brown,"Monitor heart rate, avoid stress."
+3,Robert Brown,50,Male,English,Healthy,,,None,70,98,120/80,2025-10-12 07:45:00,Dr. Clark,Maintain current healthy lifestyle.
+4,Emily Davis,29,Female,French,Asthma,Allergy,Inhaler,Dust,95,96,135/88,2025-10-12 09:15:00,Dr. Patel,Avoid allergens and pollution.
+5,Michael Wilson,60,Male,Hindi,Hypertension,Heart Disease,Amlodipine,Peanuts,80,99,128/84,2025-10-12 08:50:00,Dr. Lee,"Take BP meds regularly, low-salt diet."
+5,Michael Wilson,60,Male,Hindi,Hypertension,Heart Disease,Amlodipine,Peanuts,78,98,130/85,2025-10-12 09:10:00,Dr. Lee,"Take BP meds regularly, low-salt diet."

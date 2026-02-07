@@ -1,0 +1,6 @@
+PatientID,Name,Age,Gender,Language,Condition
+1,John Doe,45,Male,English,Diabetes
+2,Alice Smith,34,Female,Spanish,Heart Disease
+3,Robert Brown,50,Male,English,Healthy
+4,Emily Davis,29,Female,French,Asthma
+5,Michael Wilson,60,Male,Hindi,Hypertension

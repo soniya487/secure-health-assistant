@@ -1,0 +1,34 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+
+# Core data handling
+pandas==2.1.2
+numpy==1.26.4
+
+# Authentication & security
+python-jose==3.3.0
+passlib[bcrypt]==1.7.4
+pycryptodome==3.18.0
+python-dotenv==1.0.0
+
+# API utilities
+python-multipart==0.0.6
+requests==2.31.0
+pillow==10.0.1
+
+# OCR (optional – requires Tesseract installed)
+pytesseract==0.3.13
+
+# Blockchain / Solidity
+web3==6.7.0
+py-solc-x==1.1.1
+
+# -------------------------------
+# OPTIONAL / EXPERIMENTAL (NOT REQUIRED TO RUN BACKEND)
+# Uncomment only in a separate ML environment
+#
+# transformers==4.34.0
+# torch
+# torchvision
+# diffprivlib
+# -------------------------------
